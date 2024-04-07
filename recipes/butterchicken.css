@@ -12,22 +12,33 @@ a:hover{
     color: orange;
 }
 
-h1, h2, p {
+h1, p {
     text-align: center;
 }
 
 p {
     font-size: 25px;
+    margin: 50px
 }
 
 li {
     font-size: 20px;
+    padding: 10px;
 } 
 
 h1, h2 {
     color: orange;
 }
 
-h2 {
-    font-size: 30px;
+
+.ingredients {
+    margin: 50px 50px;
+}
+
+.guide {
+    margin: 0px 50px 30px;
+}
+
+img {
+    margin: 20px 0px auto;
 }
