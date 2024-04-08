@@ -8,6 +8,11 @@ a {
     font-size: 25px;
 }
 
+img {
+    display: block;
+    margin: 10px auto;
+}
+ 
 a:hover{
     color: bisque;
 }
@@ -20,8 +25,16 @@ p {
     font-size: 25px;
 }
 
+ul {
+    margin: 0px 60px;
+}
+ol {
+    margin: 30px 60px;
+}
+
 li {
-    font-size: 20px;
+    font-size: 25px;
+    padding: 10px;
 } 
 
 h1, h2 {
@@ -30,4 +43,9 @@ h1, h2 {
 
 h2 {
     font-size: 30px;
+}
+
+.bottomlink {
+    text-align: center;
+    padding: 10px;
 }

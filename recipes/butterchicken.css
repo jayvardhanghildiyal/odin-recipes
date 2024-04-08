@@ -40,5 +40,11 @@ h1, h2 {
 }
 
 img {
-    margin: 20px 0px auto;
+    margin : 20px auto;
+    display: block;
+}
+
+.bottomlink {
+    margin: 20px 0;
+    text-align: center;
 }
